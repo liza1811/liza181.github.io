@@ -237,7 +237,11 @@ a{
   text-decoration: none;
   color: rgb(31, 30, 30);
 }
-
+img{
+  
+  max-width:100% ;
+  height: auto;
+}
 
 a:hover{
  border-bottom: 5px;
